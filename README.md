@@ -5,6 +5,7 @@ A modern, user-friendly system cleaning utility built with Python and CustomTkin
 ![System Cleaner Interface](https://img.shields.io/badge/GUI-CustomTkinter-blue)
 ![Python Version](https://img.shields.io/badge/Python-3.7+-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![Dev](https://img.shields.io/badge/Bojidar-Georgiev%20-%20%2347b3ff)
 
 ## Features
 
@@ -34,8 +35,7 @@ The application features a clean, modern interface with:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/system-cleaner.git
-   cd system-cleaner
+   git clone https://github.com/BGeorgiev120/Clear-Away
    ```
 
 2. **Install required dependencies:**
