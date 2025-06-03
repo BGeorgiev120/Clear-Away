@@ -2,10 +2,10 @@
 
 A modern, user-friendly system cleaning utility built with Python and CustomTkinter. This application helps you free up disk space by clearing temporary files and emptying the recycle bin with a sleek dark-themed GUI.
 
+![DEV](https://img.shields.io/badge/Dev-Bojidar%20Georgiev%20-%20%2347b3ff)
 ![System Cleaner Interface](https://img.shields.io/badge/GUI-CustomTkinter-blue)
 ![Python Version](https://img.shields.io/badge/Python-3.7+-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![Dev](https://img.shields.io/badge/Bojidar-Georgiev%20-%20%2347b3ff)
 
 ## Features
 
